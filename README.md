@@ -4,7 +4,7 @@ I'm a second-year Computer Science student at the **University of British Columb
 
 I have experience working in a professional team environment, which has taught me the importance of readable code, testing, and clear documentation in collaboration.
 
-I'm currently seeking **Internship and co-op opportunities** starting [May 2027].
+I'm currently seeking **Internship and co-op opportunities** starting May 2027.
 
 ## Past experiences
 
