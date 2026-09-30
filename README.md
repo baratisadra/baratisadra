@@ -22,7 +22,7 @@ Need to be complete.
 
 Some projects on this profile were completed earlier and later re-uploaded after I lost access to my previous GitHub account. As a result, the GitHub upload or commit dates may not reflect when the original work was completed.
 
-## Lets get in touch!
+## Let's get in touch! Looking forward to meeting people in my field!
 
 - **LinkedIn:** www.linkedin.com/in/sadrabarati
 - **Email:** baratisadra7@gmail.com
