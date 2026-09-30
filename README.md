@@ -8,9 +8,10 @@ I'm currently seeking **Internship and co-op opportunities** starting May 2027.
 
 ## Past experiences
 
-- **Languages:** Python, Java, TypeScript, R, HTML
-- **Concepts:** Object-oriented design, data structures, unit testing, debugging, functional programming, statistics, and data analysis
-- **Tools:** Git | GitHub | VS Code
+- **Languages:** Python, Java, TypeScript, R, HTML, CSS
+- **Concepts:** Object-oriented design, data structures, unit testing, debugging, responsive web design
+-  UI/UX design, accessibility, interaction design, statistics, and data analysis
+- **Tools:** Git | GitHub | VS Code | JUnit | Jest |Figma
 
 ## Selected projects
 
