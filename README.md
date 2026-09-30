@@ -26,4 +26,4 @@ Some projects on this profile were completed earlier and later re-uploaded after
 ## Let's get in touch! Looking forward to meeting people in my field!
 
 - **LinkedIn:** www.linkedin.com/in/sadrabarati
-- **Email:** baratisadra7@gmail.com
+- **Email:** sadrabarati.dev@gmail.com
